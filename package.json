@@ -2,12 +2,12 @@
 	"name": "dark-knight",
 	"displayName": "Dark Knight",
 	"description": "VS Code theme for dark knights",
-	"version": "0.1.1",
+	"version": "1.0.0",
 	"publisher": "sushidub",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/sushidub/dark-knight"
 	},
 	"keywords": [
 		"Theme",
@@ -41,6 +41,6 @@
 	"__metadata": {
 		"id": "",
 		"publisherId": "",
-		"publisherDisplayName": "hatch.fields"
+		"publisherDisplayName": "sushidub"
 	}
 }
